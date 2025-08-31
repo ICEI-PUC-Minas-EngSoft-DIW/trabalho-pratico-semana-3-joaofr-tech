@@ -20,5 +20,5 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ![alt text](imagem_wireframe.png)
 
 ## Print da home-page criada
-![alt text](image_homePage.png)
+![alt text](imagem_homepage.png)
 <<  COLOQUE A IMAGEM AQUI >>
