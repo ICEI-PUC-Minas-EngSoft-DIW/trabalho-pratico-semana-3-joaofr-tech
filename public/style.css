@@ -1,3 +1,61 @@
 body {
-    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #2c3e50;
+    padding: 10px;
+}
+
+h1 {
+    color: white;
+}
+
+nav {
+    background-color: #34495e;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color:  #3498db;
+}
+
+.botao-saiba-mais {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+}
+
+.botao-saiba-mais:hover {
+    background-color: #2980b9;
+
+}
+
+.artigos {
+    display: flex;
+    justify-content: center;
+}
+
+.caixa {
+    padding: 16px;
+    max-width: 450px;
+    margin-left: 10px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: white;
 }
