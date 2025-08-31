@@ -62,7 +62,8 @@ body {
 
 .caixa-artigo {
     padding: 16px;
-    max-width: 450px;
+    max-width: 330px;
+    max-height: 300px;
     margin-left: 10px;
     border-radius: 8px;
     text-align: center;
