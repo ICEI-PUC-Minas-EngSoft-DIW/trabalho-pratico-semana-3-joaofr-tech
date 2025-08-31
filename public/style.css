@@ -6,31 +6,36 @@ body {
     padding: 0;
 }
 
-header {
+.cabecalho {
     text-align: center;
     background-color: #2c3e50;
     padding: 10px;
 }
 
-h1 {
+.titulo-cabecalho {
     color: white;
 }
 
-nav {
+.navegacao {
     background-color: #34495e;
     display: flex;
     justify-content: space-between;
     padding: 10px;
 }
 
-nav a {
+.navegacao a {
     text-decoration: none;
     color: white;
     font-weight: bold;
 }
 
-nav a:hover{
+.navegacao a:hover{
     color:  #3498db;
+}
+
+.conteudo {
+    max-width: 1400px;
+    margin: 2rem auto;
 }
 
 .botao-saiba-mais {
@@ -51,7 +56,7 @@ nav a:hover{
     justify-content: center;
 }
 
-.caixa {
+.caixa-artigo {
     padding: 16px;
     max-width: 450px;
     margin-left: 10px;
